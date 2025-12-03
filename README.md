@@ -4,6 +4,12 @@ Repository for the [CPack exercise](https://github.com/Simulation-Software-Engin
 
 ## How to Test the Code
 
+0. **Clone the directory and go inside the root of the directory**
+   ```bash
+   git clone https://github.com/jkhanGitHub/cpack-exercise-wt2526.git
+   cd cpack-exercise-wt2526
+   ```
+
 To test the changes made for the CPack exercise, follow these steps:
 
 1.  **Build the Docker Image:**
