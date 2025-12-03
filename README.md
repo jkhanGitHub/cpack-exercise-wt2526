@@ -52,7 +52,7 @@ To test the changes made for the CPack exercise, follow these steps:
 7.  **Install the Debian Package (Inside the Container):**
     Install the generated Debian package using `apt`.
     ```bash
-    sudo apt install ./build/cpackexample_0.1.0_amd64.deb
+    apt install ./build/cpackexample_0.1.0_amd64.deb
     ```
 
 8.  **Run the Installed Executable (Inside the Container):**
